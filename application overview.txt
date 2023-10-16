@@ -1,1 +1,9 @@
-Text messages are one of the most common forms of communication in the digital age, but they are also vulnerable to interception, hacking, or unauthorized access by third parties. This poses a threat to the privacy and security of the message sender and receiver, as well as the content of the message. Encryption and decryption are techniques that can protect the confidentiality and integrity of text messages by transforming them into unreadable and readable forms, respectively. However, not many people are aware of or use these techniques, due to the lack of user-friendly and accessible applications that can perform encryption and decryption. The aim of this project is to develop a Message Encryption and Decryption Application that can encrypt and decrypt text messages using different algorithms or techniques, and provide a simple and intuitive user interface.
+Text messages are one of the most common forms of communication in the digital age, but they are also 
+vulnerable to interception, hacking, or unauthorized access by third parties. This poses a threat to 
+the privacy and security of the message sender and receiver, as well as the content of the message. 
+Encryption and decryption are techniques that can protect the confidentiality and integrity of text 
+messages by transforming them into unreadable and readable forms, respectively. However, not many 
+people are aware of or use these techniques, due to the lack of user-friendly and accessible applications 
+that can perform encryption and decryption. The aim of this project is to develop a Message Encryption 
+and Decryption Application that can encrypt and decrypt text messages using different algorithms or 
+techniques, and provide a simple and intuitive user interface.
